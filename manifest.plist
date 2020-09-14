@@ -31,9 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.myb.shop.mobile</string>
 				<key>bundle-version</key>
-				<string>2.1.2</string>
-				<key>New item</key>
-				<string></string>
+				<string>2.7.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
